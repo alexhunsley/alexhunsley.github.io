@@ -10,7 +10,7 @@ BSc (Hons) Computer Science, Edinburgh.
 
 ## see me online
 
-<a href='https://uk.linkedin.com/in/alex-hunsley-385937'>LinkedIn</div>
+<a href='https://uk.linkedin.com/in/alex-hunsley-385937'>LinkedIn</a>
 
 <p/>
 
