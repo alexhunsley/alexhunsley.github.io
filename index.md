@@ -1,6 +1,6 @@
-## professional
+## professional experience
 
-Professional experience: 20 years software engineering; 15 of those are mobile focused, specialising in iOS.
+20 years software engineering; 15 of those are mobile focused, specialising in iOS.
 
 ## education
 
