@@ -24,8 +24,11 @@ I exhibit at <a href="https://www.colony-of-artists.com/">Colony of Artists</a> 
 
 <p/>
 
-<a href="https://bb.ringingworld.co.uk/search.php?ringer=hunsley">Campanology</a> - rotating giant bits of metal using ropes. With some group theory thrown in.
+Drumming: Beltane Fire Society and ex-<a href="https://www.harbingersdrumcrew.com/#introduction">Harbingers Drum Crew</a>.
 
+<p/>
 
+Ringing church bells (<a href="https://bb.ringingworld.co.uk/search.php?ringer=hunsley">see my activity</a>) - physical exercise and group theory!
 
+<p/>
 
