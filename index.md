@@ -2,6 +2,8 @@
 
 20 years software engineering; 15 of those are mobile focused, specialising in iOS.
 
+Swift, Objective C, Python, Golang, C, some C++, Java.
+
 ## education
 
 BSc (Hons) Computer Science, Edinburgh.
