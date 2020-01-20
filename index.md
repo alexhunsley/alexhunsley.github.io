@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ## professional experience
 
 20 years software engineering; 15 of those are mobile focused, specialising in iOS.
