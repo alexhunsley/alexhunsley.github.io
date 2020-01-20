@@ -10,7 +10,9 @@ BSc (Hons) Computer Science, Edinburgh.
 
 ## see me online
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="alex-hunsley-385937"><a class="LI-simple-link" href='https://uk.linkedin.com/in/alex-hunsley-385937?trk=profile-badge'>Alex Hunsley</a></div>
+<a href='https://uk.linkedin.com/in/alex-hunsley-385937'>LinkedIn</div>
+
+<p/>
 
 <a href="https://stackoverflow.com/users/348476/occulus"><img src="https://stackoverflow.com/users/flair/348476.png" width="208" height="58" alt="profile for occulus at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for occulus at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
