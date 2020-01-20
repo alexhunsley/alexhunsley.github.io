@@ -28,7 +28,7 @@ Drumming: Beltane Fire Society and ex-<a href="https://www.harbingersdrumcrew.co
 
 <p/>
 
-Ringing church bells (<a href="https://bb.ringingworld.co.uk/search.php?ringer=hunsley">see my activity</a>) - physical exercise and group theory!
+Ringing church bells (<a href="https://bb.ringingworld.co.uk/search.php?ringer=hunsley">see my activity</a>) - physical exercise and group theory don't normally meet this way
 
 <p/>
 
