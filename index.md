@@ -8,7 +8,7 @@ Swift, Objective C, Python, Java, Golang, C, some C++ and C#. And 6502 :)
 
 ## education
 
-BSc (Hons) Computer Science, Edinburgh.
+BSc (Hons) Computer Science, Edinburgh 1992 - 96
 
 ## see me online
 
