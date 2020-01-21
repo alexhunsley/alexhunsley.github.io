@@ -1,8 +1,10 @@
 ## professional experience
 
-20 years software engineering; 15 of those are mobile focused, specialising in iOS.
+Over 20 years software engineering; 14 of those are mobile focused, specialising in iOS. Contracting for 10 years.
 
-Swift, Objective C, Python, Golang, C, some C++, Java. And 6502 :)
+Equally happy working in development teams or being the solo iOS developer on-site. I'm fortunate to have worked with some great clients in both the private and public sector.
+
+Swift, Objective C, Python, Java, Golang, C, some C++ and C#. And 6502 :)
 
 ## education
 
@@ -26,7 +28,9 @@ My <a href="https://github.com/alexhunsley/aoc-2019">Advent of Code 2019</a> in 
 
 ## other interests
 
-I exhibit at <a href="https://www.colony-of-artists.com/">Colony of Artists</a> every year.
+Sometimes I'm mentoring more junior developers in my own time.
+
+I exhibit at <a href="https://www.colony-of-artists.com/">Colony of Artists</a> every year (doing photography and digital media).
 
 <a href="https://www.instagram.com/alexhunsleyart">Some of my art and creations on instagram</a>
 
