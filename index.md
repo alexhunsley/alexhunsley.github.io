@@ -1,6 +1,6 @@
 ## professional experience
 
-Over 20 years software engineering; 14 of those are mobile focused, specialising in iOS. Contracting for 10 years.
+Over 20 years software engineering; 14 of those are mobile focused, with the last 10 specialising in iOS as a contractor.
 
 Equally happy working in development teams or being the solo iOS developer on-site. I'm fortunate to have worked with some great clients in both the private and public sector.
 
