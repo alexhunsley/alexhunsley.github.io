@@ -14,11 +14,15 @@ BSc (Hons) Computer Science, Edinburgh.
 
 <p/>
 
-<a href="https://stackoverflow.com/users/348476/occulus"><img src="https://stackoverflow.com/users/flair/348476.png" width="208" height="58" alt="profile for occulus at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for occulus at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/348476/occulus"><img src="https://stackoverflow.com/users/flair/348476.png" width="208" height="58" title="profile for occulus at Stack Overflow"></a>
 
 ## current projects
 
 learning Golang; looking into data science; <a href="https://github.com/alexhunsley/tray-racer">tray racer</a>.
+
+## programming contests etc
+
+My <a href="https://github.com/alexhunsley/aoc-2019">Advent of Code 2019</a> in Golang
 
 ## other interests
 
