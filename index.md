@@ -20,7 +20,7 @@ BSc (Hons) Computer Science, Edinburgh 1992 - 96
 
 ## current projects
 
-learning Golang; looking into data science; <a href="https://github.com/alexhunsley/tray-racer">tray racer</a>.
+learning Golang; looking into data science; <a href="https://github.com/alexhunsley/tray-racer">tray racer</a>, a toy ray tracer.
 
 ## programming contests
 
