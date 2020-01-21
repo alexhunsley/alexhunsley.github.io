@@ -22,7 +22,7 @@ BSc (Hons) Computer Science, Edinburgh.
 
 learning Golang; looking into data science; <a href="https://github.com/alexhunsley/tray-racer">tray racer</a>.
 
-## programming contests etc
+## programming contests
 
 My <a href="https://github.com/alexhunsley/aoc-2019">Advent of Code 2019</a> in Golang
 
