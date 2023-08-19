@@ -21,6 +21,7 @@ filename = 'index.html'
 with open(filename, 'w') as file:
     file.write("""<html>
 <head>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
     <script type="text/javascript">
         function getParameterByName(name, url) {
             if (!url) url = window.location.href;
