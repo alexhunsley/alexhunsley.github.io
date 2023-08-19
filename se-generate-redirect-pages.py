@@ -8,7 +8,6 @@ BASE_URL = "https://github.com/apple/swift-evolution/blob/main/"
 response = requests.get(URL)
 data = json.loads(response.text)
 
-# Create a dictionary to map proposal numbers to their URLs
 proposal_map = {}
 for item in data['payload']['tree']['items']:
     if item['contentType'] == 'file' and item['path'].endswith('.md'):
@@ -16,7 +15,7 @@ for item in data['payload']['tree']['items']:
         href = BASE_URL + item['path']
         proposal_map[code] = href
 
-# Now let's generate the HTML file with embedded JavaScript
+
 filename = 'index.html'
 with open(filename, 'w') as file:
     file.write("""<html>
