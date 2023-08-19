@@ -42,15 +42,17 @@ with open(filename, 'w') as file:
                 }
                 else {
                     document.getElementById("error_message").innerHTML = "Invalid or missing Swift Evolution proposal code: &quot;" + seCode + "&quot;";
-                    document.getElementById("main_text").style.display = "none";
                 } 
+            }
+            else {
+                document.getElementById("main_text").style.display = "block";
             }
         }
     </script>
 </head>
 <body>
     <div id="error_message"></div>
-    <div id="main_text">
+    <div id="main_text" style="display: none;">
 
         <h2>professional experience</h2>
 
