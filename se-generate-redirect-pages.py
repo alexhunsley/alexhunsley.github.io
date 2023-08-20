@@ -41,7 +41,8 @@ with open(filename, 'w') as file:
                     window.location.href = redirectMap[seCode];
                 }
                 else {
-                    document.getElementById("error_message").innerHTML = "Invalid or missing Swift Evolution proposal code: &quot;" + seCode + "&quot;";
+                    document.getElementById("error_message").innerHTML = "<p>Invalid or missing Swift Evolution proposal code: &quot;" + seCode + "&quot;</p>"
+                        + "<p>If that proposal code exists, ask <a href=&quot;https://github.com/alexhunsley&quot;>alex hunsley</a> to run <code>se-generate-redirect-pages.py</code> again.</p>";
                 } 
             }
             else {
